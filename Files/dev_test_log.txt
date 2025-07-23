@@ -1,0 +1,49 @@
+[2025-07-23 16:41:41] 
+🧪 === Test Cycle 1 Started ===
+[2025-07-23 16:41:41] ✅ Connected to Arduino on COM18
+[2025-07-23 16:41:46] 📥 Boot Info:
+[2025-07-23 16:41:47] → ========== BOOT INFO ==========
+[2025-07-23 16:41:47] → Firmware Version: 1.2
+[2025-07-23 16:41:47] → System initialized successfully.
+[2025-07-23 16:41:47] → ================================
+[2025-07-23 16:41:47] ✅ Boot Info Validated.
+[2025-07-23 16:41:52] → LED turned ON
+[2025-07-23 16:41:52] ✅ LED turned ON Validated.
+[2025-07-23 16:42:02] → LED turned OFF
+[2025-07-23 16:42:02] ✅ LED turned OFF Validated.
+[2025-07-23 16:42:12] → LED turned ON
+[2025-07-23 16:42:12] ✅ LED turned ON Validated.
+[2025-07-23 16:42:17] ❌ Arduino disconnected.
+[2025-07-23 16:42:26] 
+🧪 === Test Cycle 2 Started ===
+[2025-07-23 16:42:26] ✅ Connected to Arduino on COM18
+[2025-07-23 16:42:31] 📥 Boot Info:
+[2025-07-23 16:42:31] → ========== BOOT INFO ==========
+[2025-07-23 16:42:31] → Firmware Version: 1.2
+[2025-07-23 16:42:31] → System initialized successfully.
+[2025-07-23 16:42:31] → ================================
+[2025-07-23 16:42:31] → LED turned OFF
+[2025-07-23 16:42:31] ✅ Boot Info Validated.
+[2025-07-23 16:42:32] ⚠️ LED turned OFF Validation Failed.
+[2025-07-23 16:42:42] → LED turned ON
+[2025-07-23 16:42:42] ✅ LED turned ON Validated.
+[2025-07-23 16:42:52] → LED turned OFF
+[2025-07-23 16:42:52] ✅ LED turned OFF Validated.
+[2025-07-23 16:43:02] → LED turned ON
+[2025-07-23 16:43:02] ✅ LED turned ON Validated.
+[2025-07-23 16:43:12] → LED turned OFF
+[2025-07-23 16:43:12] ✅ LED turned OFF Validated.
+[2025-07-23 16:43:13] ❌ Arduino disconnected.
+[2025-07-23 16:43:22] 
+🧪 === Test Cycle 3 Started ===
+[2025-07-23 16:43:22] ✅ Connected to Arduino on COM18
+[2025-07-23 16:43:27] 📥 Boot Info:
+[2025-07-23 16:43:27] → ========== BOOT INFO ==========
+[2025-07-23 16:43:27] → Firmware Version: 1.2
+[2025-07-23 16:43:27] → System initialized successfully.
+[2025-07-23 16:43:27] → ================================
+[2025-07-23 16:43:27] ✅ Boot Info Validated.
+[2025-07-23 16:43:32] → LED turned ON
+[2025-07-23 16:43:32] ✅ LED turned ON Validated.
+[2025-07-23 16:43:42] → LED turned OFF
+[2025-07-23 16:43:42] ✅ LED turned OFF Validated.
